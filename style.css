@@ -5,6 +5,7 @@ h1 {
     color: white;
     font-family: 'Courier New', Courier, monospace;
     margin: auto;
+    text-align: center;
 } 
 div {
     margin: auto;
