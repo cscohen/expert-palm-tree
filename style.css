@@ -18,4 +18,6 @@ p {
 }
 img {
     margin: auto;
+    max-width: 50%;
+    max-height: auto;
 }
